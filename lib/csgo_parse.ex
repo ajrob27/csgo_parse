@@ -1,0 +1,2 @@
+defmodule CsgoParse do
+end
